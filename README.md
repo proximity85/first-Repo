@@ -12,6 +12,8 @@
 
 Änderung für backup zu Github
 
+
+
 Hier sehen wir eine Tabelle
 
 |  1       |        2 |        3 |
@@ -20,4 +22,13 @@ Hier sehen wir eine Tabelle
 | Row 2    | Cell 5   | Cell 6   |
 | Row 3    | Cell 8   | Cell 9   |
 
-Hier eine Tabelle oh
+
+
+Hier eine Tabelle ohne Kopfzeile
+
+| <!-- -->      | <!-- -->        | <!-- -->      |
+|:-------------:|:---------------:|:-------------:|
+| Row 1         | **Bold**        | Cell 3        |
+| Row 2         | *Italic*        | Cell 6        |
+| Row 3         | ~~Strike~~      | Cell 9        |
+
